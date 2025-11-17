@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.11.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.10.1...chrome-devtools-mcp-v0.11.0) (2025-11-17)
+
+
+### 🎉 Features
+
+* report console issues in list_console_messages ([#505](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/505)) ([c1e4118](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/c1e41189923e65063d3bbf1866ae89f19a9998fb))
+
+
+### 📄 Documentation
+
+* add Factory CLI configuration to MCP clients ([#523](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/523)) ([016e2fd](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/016e2fd6ee57447103f7385285dd503b5576a860))
+
+
+### ♻️ Chores
+
+* clear issue aggregator on page navigation ([#565](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/565)) ([c3784d1](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/c3784d1990a926f651951e4eef05520c5c448964))
+* simplify issue management ([#564](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/564)) ([3b016f1](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/3b016f1a814b1a69750813548b3f35e79bfb6fef))
+
 ## [0.10.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.10.0...chrome-devtools-mcp-v0.10.1) (2025-11-07)
 
 
